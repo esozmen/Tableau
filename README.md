@@ -4,4 +4,4 @@
 
 # PowerBI
 * All pdf files represent PowerBI work
-*The original pbix files are also attached, with the same name
+* The original pbix files are also attached, with the same name
